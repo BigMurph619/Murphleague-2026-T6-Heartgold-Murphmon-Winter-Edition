@@ -23,11 +23,11 @@ This Season's Tune-Ups are:
 
 # Tourney Details
 
-T4 is hosted by [roflmaogamers1](https://www.twitch.tv/roflmaogamers1). Dates: July 2nd 11:59 PM EST - July 19th 11:59 PM EST. Sign up deadline is July 10th with details on tourney sign up available in the MurphVerse Discord.
+T6 is hosted by [BennyTots](https://www.twitch.tv/bennytots). Dates: November 5th 11:59 PM EST - November 22nd 11:59 PM EST. Sign up deadline is November 13th  with details on tourney sign up available in the MurphVerse Discord.
 
 > You must be in the [MurphVerse discord](https://discord.gg/fNX4geCU) and all seeds must be live for the entire run and have a VOD available. Murphleague tourneys are free to enter and open to all entrants unless previously banned.
 
-Competitors will be given 100 seeds. Your score is determined by your 3 highest scoring runs combined.
+Competitors will be given 75 seeds. Your score is determined by your 3 highest scoring runs combined.
 
 ## Point Breakdown
 
