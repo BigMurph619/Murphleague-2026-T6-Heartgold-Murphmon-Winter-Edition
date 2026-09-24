@@ -33,23 +33,28 @@ Competitors will be given 75 seeds. Your score is determined by your 3 highest s
 
 |           Points                                  |
 | :-----------------------------------------------: |
+| Rival 1 |
+| Bellsprout Tower Elder Attempt |
 | Bellsprout Tower Full Clear                       |
 | Falkner                                           |
-| Union Cave Full Clear First Visit                 |
+| Union Cave Enter                |
+| Union Cave Exit??? |
 | Slowpoke Exec                                     |
 | Azalea Rival                                      |
 | Bugsy (2)                                             |
-| Full Clear prior to Ecruteak City                 |
+| Whitney Attempt                |
 | Whitney                                           |
 | Burned Tower Rival                                |
 | Speak With Jasmine                                |
-| Full Clear Lighthouse                             |
 | Morty (2)                                             |
+| Level Up Pivot 5 levels |
+| Level Up Pivot 15 Levels |
+| Full Clear Lighthouse                             |
 | Eusine                                            |
-| Full Clear Prior to Chuck                         |
+| Chuck Attempt                       |
 | Chuck                                             |
 | Jasmine (2)                                          |
-| Full Clear Lake of Rage                           |
+| Full Clear Lake of Rage and Trainers South   |
 | Exec Arianna                                      |
 | Full Clear Hideout                                |
 | Pryce                                             |
@@ -57,7 +62,8 @@ Competitors will be given 75 seeds. Your score is determined by your 3 highest s
 | Archer |
 | Full Clear Radio Tower |
 | Clear all trainers routes 44, 45, and 46 |
-| Defeat Clair (2) |
+| Claire Attempt|
+| Defeat Clair |
 | Kimono Girls |
 | VR Rival |
 | Will |
