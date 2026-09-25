@@ -84,7 +84,7 @@ Competitors will be given 75 seeds. Your score is determined by your 3 highest s
 
 *All points listed after Morty are only eligble with pivot.
 
- > 55 Points available 
+ > 59 Points available 
 
  > Tiebreakers will be decided as follows: most wins, furthest run, most Bug Catching visits, lowest BST Bug Catching visit, coinflip.
 
