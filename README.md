@@ -37,50 +37,50 @@ Competitors will be given 75 seeds. Your score is determined by your 3 highest s
 | Bellsprout Tower Elder Attempt |2|
 | Bellsprout Tower Full Clear                       |3|
 | Falkner                                           |4|
-| Union Cave Enter                |
-| Union Cave Exit??? |
-| Slowpoke Exec                                     |
-| Azalea Rival                                      |
-| Bugsy (2)                                             |
-| Whitney Attempt                |
-| Whitney                                           |
-| Burned Tower Rival                                |
-| Speak With Jasmine                                |
-| Morty (2)                                             |
-| Level Up Pivot 5 levels |
-| Level Up Pivot 15 Levels |
-| Full Clear Lighthouse                             |
-| Eusine                                            |
-| Chuck Attempt                       |
-| Chuck                                             |
-| Jasmine (2)                                          |
-| Full Clear Lake of Rage and Trainers South   |
-| Exec Arianna                                      |
-| Full Clear Hideout                                |
-| Pryce                                             |
-| Radio Tower Rival |
-| Archer |
-| Full Clear Radio Tower |
-| Clear all trainers routes 44, 45, and 46 |
-| Claire Attempt|
-| Defeat Clair |
-| Kimono Girls |
-| VR Rival |
-| Will |
-| Koga |
-| Bruno (2) |
-| Karen (2) |
-| Lance (3) |
-|Mt. Moon Rival|
-|Brock|
-|Misty|
-|Lt. Surge|
-|Erika|
-|Janine|
-|Sabrina|
-|Blaine|
-|Blue|
-|Red (5)|
+| Union Cave Enter                |5|
+| Union Cave Exit??? |6|
+| Slowpoke Exec                                     |7|
+| Azalea Rival                                      |8|
+| Bugsy (2)                                             |10|
+| Whitney Attempt                |11|
+| Whitney                                           |12|
+| Burned Tower Rival                                |13|
+| Speak With Jasmine                                |14|
+| Morty (2)                                             |16|
+| Level Up Pivot 5 levels |17|
+| Level Up Pivot 15 Levels |18|
+| Full Clear Lighthouse                             |19|
+| Eusine                                            |20|
+| Chuck Attempt                       |21|
+| Chuck                                             |22|
+| Jasmine (2)                                          |24|
+| Full Clear Lake of Rage and Trainers South   |25|
+| Exec Arianna                                      |26|
+| Full Clear Hideout                                |27|
+| Pryce                                             |28|
+| Radio Tower Rival |29|
+| Archer |30|
+| Full Clear Radio Tower |31|
+| Clear all trainers routes 44, 45, and 46 |32|
+| Claire Attempt|33|
+| Defeat Clair |34|
+| Kimono Girls |35|
+| VR Rival |36|
+| Will |37|
+| Koga |38|
+| Bruno (2) |40|
+| Karen (2) |42|
+| Lance (3) |45|
+|Mt. Moon Rival|46|
+|Brock|47|
+|Misty|48|
+|Lt. Surge|49|
+|Erika|50|
+|Janine|51|
+|Sabrina|52|
+|Blaine|53|
+|Blue|54|
+|Red (5)|59|
 
 *All points listed after Morty are only eligble with pivot.
 
