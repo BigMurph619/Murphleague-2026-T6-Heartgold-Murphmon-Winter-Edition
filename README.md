@@ -13,13 +13,7 @@ Murphmon is a randomized Pokemon challenge inspired by Super Kaizo IronMON. It a
 This Season's Tune-Ups are:
 |         Tune-Ups          | Details |
 |-|-|
-| Harvester | You may grab 1 tree of berries from each soil patch en route to safari. Collection cutoff is the Safari building. Berries may be used on pre- and/or post-pivot mons. |           
-| Hydration  | You may use drink heals outside of battle until Safari. (Fresh water, Soda Pop, Lemonade, Berry Juice)|
-| Vacation | Re-randomize the seed! Hard save in game, set your attempts back 1, and re-roll the seed prior to fighting the first aqua grunt. Vacation counts as 3 tune-ups in the early game pivot. If used at Safari, only counts as 1 tune-up. However, you must have 6 pivots locked in BEFORE using Vacation. No further catches are allowed after Vacationing (i.e. searching for shinies/favorites) |
-| Band Camp   | Unlock all flutes and bells for mons with a quad weakness.  |
-| Gone Surfin'   | You may teach and use Surf in battle with a Safari pivot that is under 500 BST and not water type |
-| Farmer's Market  |  You may purchase a bundle of vitamins from the Slateport market, must be all one transaction and before going north. |
-| No Hoenn Around | You may forego early pivot options to gain 3 more wild exp kills. No favorites/shiny exceptions. You must commit to this tune-up and obtain your additional EXP prior to the first youngster fight. |
+
 
 # Tourney Details
 
@@ -91,7 +85,9 @@ Competitors will be given 75 seeds. Your score is determined by your 3 highest s
 |        Bonus Points       |
 | :-----------------------: |
 | Any Pokemon that is 440 BST or lower will accumulate DOUBLE points. If the Pokemon is evolved into over 440 BST it will resume receiving standard points. |
-
+| Pokeathlon - You may compete in the Pokeathlon once per seed AND purchase 1 item with your rewards after. The competitor with the highest score achieved in a single attempt will earn 3 bonus points.|
+| Voltorb Flip Game: Whoever reaches the highest level earns 3 bonus point. 3 Voltorbs blows per run.|
+| Good guess! Guess the PRIMARY typing of the randomized Red Gyarados in a clip and earn 1 bonus point (non-repeatable)|
 
 
 Good Luck Challengers.
