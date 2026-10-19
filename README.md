@@ -13,7 +13,24 @@ Murphmon is a randomized Pokemon challenge inspired by Super Kaizo IronMON. It a
 This Season's Tune-Ups are:
 |         Tune-Ups          | Details |
 |-|-|
-
+|Snowbirds|Teach Fly|
+|Late Bloomer|Pivot in Sprout Tower|
+|Shop Phase|Roguemon like exchange|
+|Santa's Little Helper|Use Kenya as a buddy|
+|New Year's Resolution|Use "Power" Items|
+|Winter is coming|Fortify your defenses with xxx amount of zincs and irons|
+|Benny's Blankie|An accuracy drop allows the use of swapping (may be activated on the spot but ONLY an accuracy drop allows a swap)|
+|Layer Up|May wear any clothing item but must discard (insert stipulations here)|
+|Snowman|Earn Additional points (1 per gym pre-bug catch only) if you run an Ice type or snow warning mon. (must opt in before first gym).|
+|Hibernation|Allow Rest|
+|The North Remembers| Proclaim your "King" or "Queen" among your favorites. That mon receives additional 1 point per gym.|
+|North Remembers 2|Proclaim an early pivot king or queen to catch multiple and receive additional wild exp or additional gym points.|
+|Snow Day!|Skip (something...maybe go to lake rage pre-chuck or be able to skip 1 or more trainers within a gym)|
+|Re-rando|you know|
+|Snow Goggles|Allows the use of all glasses/lens (allowed to be purchased also) |
+|Jingle bells, batman smells|Allows the use of bells and incenses|
+|onesie funsie| i dunno|
+|fur coat| i dunno|
 
 # Tourney Details
 
