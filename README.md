@@ -16,10 +16,9 @@ This Season's Tune-Ups are:
 |Winter is coming|Fortify your defenses with xxx amount of zincs and irons|
 |Benny's Blankie|An accuracy drop allows the use of swapping (may be activated on the spot but ONLY an accuracy drop allows a swap)|
 |Layer Up|May wear any clothing item but must discard (insert stipulations here)|
-|Snowman|Earn Additional points (1 per gym pre-bug catch only) if you run an Ice type or snow warning mon. (must opt in before first gym).|
-|The North Remembers| Proclaim your "King" or "Queen" among your favorites. That mon receives additional 1 point per gym.|
-|North Remembers 2|Proclaim an early pivot king or queen to catch multiple and receive additional wild exp or additional gym points.|
-|Re-rando|you know|
+|Iceman|Earn Additional points (1 per gym pre-bug catch only) if you run an Ice type or snow warning mon. (must opt in before first gym).|
+|The North Remembers | Proclaim an early pivot "king" or "queen" to allow catching multiple of the same pivot and kill 2 additional wild(ling)s. |
+|Snowday!|This seed is CANCELLED. Re-randomize the seed and pick up where you left off.|
 |Snow Goggles|Allows the use of all glasses/lens (allowed to be purchased also) |
 |Jingle bells, batman smells|Allows the use of bells and incenses|
 
