@@ -16,7 +16,7 @@ This Season's Tune-Ups are:
 |Winter is coming | Fortify your defenses with up to 10 zincs and irons. Must purchase all at once, any assortment of 10 is ok.|
 |Benny's Blankie|An accuracy drop allows the use of swapping (may be activated on the spot but ONLY an accuracy drop allows a swap). May be used throughout the seed.|
 |Break out the good china| You may use all plates freely. |
-|Cryokinesis|Earn 1 additional point per gym while running an Ice type or snow warning mon. (must opt-in before first gym or pre-pivot and before Chuck's gym for post-pivot).|
+|Cryokinesis|Earn 1 additional point per gym while running an Ice type or snow warning mon. (must opt-in before first gym for pre-pivot and before Chuck's gym for post-pivot).|
 |The North Remembers | Proclaim an early pivot "king" or "queen" to allow catching multiple of the same pivot and kill 2 additional wild(ling)s. |
 |Snowday!|This seed is CANCELLED. Re-randomize the seed and pick up where you left off. Counts as 1 additional seed and may only be used once per run.|
 |Snow Gear|Allows the use of all glasses, lens, scarves, belts and power items. (May purchase/obtain 1). |
@@ -38,7 +38,7 @@ Competitors will be given 75 seeds. Your score is determined by your 3 highest s
 | Bellsprout Tower Full Clear                       |3|
 | Falkner                                           |4|
 | Union Cave Enter                |5|
-| Union Cave Exit??? |6|
+| Defeat First Slowpoke Grunt |6|
 | Slowpoke Exec                                     |7|
 | Azalea Rival                                      |8|
 | Bugsy (2)                                             |10|
@@ -79,8 +79,8 @@ Competitors will be given 75 seeds. Your score is determined by your 3 highest s
 |Janine|51|
 |Sabrina|52|
 |Blaine|53|
-|Blue|54|
-|Red (5)|59|
+|Blue (2)|55|
+|Red (5)|60|
 
 *All points listed after Morty are only eligble with pivot.
 
