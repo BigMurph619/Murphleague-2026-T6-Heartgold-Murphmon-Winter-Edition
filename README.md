@@ -87,7 +87,7 @@ Competitors will be given 75 seeds. Your score is determined by your 3 highest s
 
  > 60 Points available 
 
- > Tiebreakers will be decided as follows: most wins, furthest run, most Bug Catching visits, lowest BST Bug Catching visit, Pokeathlon Score.
+ > Tiebreakers will be decided as follows: most wins, furthest run, most Bug Catching visits, lowest BST Bug Catching visit, Pokeathlon Score, coinflip.
 
 |        Bonus Points       |
 | :-----------------------: |
